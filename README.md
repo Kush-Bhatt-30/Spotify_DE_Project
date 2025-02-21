@@ -5,7 +5,7 @@ This project involves building an ETL (Extract, Transform, Load) pipeline to fet
 
 ## Architecture Diagram
 
-![Architecture Diagram]()
+![Architecture Diagram](Spotify_Project_KB_Architecture.jpg)
 
 ## Technology Used
 - **Programming Language:** Python
